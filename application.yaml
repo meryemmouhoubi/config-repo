@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/camunda?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/angularspringbootecommerce?serverTimezone=UTC
     driver-class-name: com.mysql.jdbc.Driver
     username: meryem
     password: root
